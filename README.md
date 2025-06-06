@@ -3,6 +3,8 @@
 
 A Garmin Connect IQ app for glider pilots to monitor and record flight data in real-time. Built in Monkey C, it leverages Garmin's GPS, barometer, and heart rate sensors to provide essential metrics for gliding. This project extends the original Glidator app by Gaetan Marti (https://github.com/gaetanmarti/glidator).
 
+You can find the app in the Garmin IQ store under Glidator2
+
 ## Features
 - **Flight Metrics**: Displays altitude (m), vertical speed (m/s) with color-coded feedback (green for climb >0.3 m/s, red for sink <-2.0 m/s, gray for neutral), ground speed (km/h), and heading (radians).
 - **Compass View**: Graphical compass with cardinal directions, degree markings, and GPS coordinates (degrees, minutes, seconds).
